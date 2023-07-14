@@ -1,4 +1,4 @@
 Welcome to MyProject!!
 
-Author: Yashas
+Author: Yashas Dayanand
 Twitter: @yashasdb

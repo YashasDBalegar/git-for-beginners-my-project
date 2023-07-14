@@ -1,4 +1,5 @@
 Welcome to MyProject!!
 
-Author: Yashas D Balegar
+
+Author: Yashas Dayanand Balegar
 Twitter: @yashasdb
